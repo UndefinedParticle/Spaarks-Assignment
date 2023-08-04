@@ -1,6 +1,9 @@
 # Spaarks-Assignment
 Assignment for the role Android Developer at Spaarks
 
+## Installation
+Download the APK file: [Click Here](https://github.com/UndefinedParticle/Spaarks-Assignment/blob/main/Spaarks%20Assignment.apk)
+
 ## Screenshots
 
 **First Screen**:
